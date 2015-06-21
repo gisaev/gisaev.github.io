@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/88753/acb502b7a3114f8292ae0c96547aff16
+url: http://rpubs.com/girpub/88753
+when: 1434916054.95191
